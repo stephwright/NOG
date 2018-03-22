@@ -18,3 +18,7 @@ This is just a starter list... there are so many we'd be better off having a db.
 * Mozilla
 * The Carpentries
 * Center for Open Science
+
+### Groups/Coalitions
+* [Open Data Charter](https://medium.com/@opendatacharter)
+* [Open Source Alliance for Open Scholarship](https://osaos.org/)
